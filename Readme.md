@@ -13,7 +13,7 @@ A simple game built using Python's Turtle graphics library. The goal of the game
 3. Run the game by executing the `main.py` file.
 
 ```bash
-python Turtle-Game-OOP.py
+python main.py
 ```
 
 ## Gameplay
