@@ -2,6 +2,10 @@
 
 A simple game built using Python's Turtle graphics library. The goal of the game is to control the turtle and avoid the moving cars. Use the ↑ key to move the turtle upwards.
 
+## Screenshot
+![Turtle](https://github.com/CharlesFabicki/Turtle.Crossing.Road.Game.OOP/assets/103677730/2b854bfb-3a37-40cd-9a1e-6c1efd5488f4)
+
+
 ## Getting Started
 
 1. Clone this repository to your local machine.
@@ -9,7 +13,7 @@ A simple game built using Python's Turtle graphics library. The goal of the game
 3. Run the game by executing the `main.py` file.
 
 ```bash
-python main.py
+python Turtle-Game-OOP.py
 ```
 
 ## Gameplay
